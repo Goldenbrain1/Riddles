@@ -1,0 +1,42 @@
+    body {
+     padding-top: 30px;
+     width: 350px;
+     position: relative;
+     margin-left: auto;
+     margin-right: auto;
+    }
+    p {
+      font-size: 18px;
+      font-family: 'Times New Roman', Times, serif;
+      color: darkred;
+    }
+    .emails {
+      color: black;
+      display: inline-block;
+      vertical-align: top;
+    }
+    .text, .name, .email {
+      line-height: 60px;
+    }
+    input {
+      height: 40px;
+      width: 250px;
+      border: 2px solid rgb(200, 10, 100);
+      border-radius: 15px;
+    }
+    .message {
+     position: absolute;
+    right: 20px;
+    text-decoration: none;
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: darkcyan;
+    margin-top: 10px;
+    }
+    .message:inset {
+      color: white;
+    }
+    label {
+      margin-right: 30px;
+    }

@@ -1,0 +1,83 @@
+ol {
+  list-style-type: upper-alpha;
+  line-height: 30px;
+  font-size: 25px;
+}
+    .h3 {
+      font-size: 35px;
+    }
+    .question {
+      font-size: 30px;
+      font-family: fantasy;
+      font-weight: 550;
+    }
+    .next {
+    background-color: darkblue;
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    padding: 10px 40px 10px 40px;
+    width: 200px;
+    margin-top: 0px;
+    display: block;
+    }
+ article{
+  width: 300px;
+  margin-bottom: 30px;
+  padding: 10px 5px;
+  display: inline-block;
+ }
+ aside {
+  text-align: center;
+  width: 300px;
+  height: 500px;
+  display: inline-block;
+  text-decoration: none;
+ }
+ .ads {
+  width: 300px;
+ }
+ .buy {
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border: none;
+ }
+ a {
+  text-decoration: none;
+  color: black;
+ }
+ a:hover {
+  cursor: pointer;
+ }
+ .content {
+  margin-left: auto;
+  margin-right: auto;
+ }
+ h1 {
+    font-size: 30px;
+    display: inline-block;
+    color: gold;
+    text-transform: uppercase;
+    vertical-align: top;
+    margin-top: 0px;
+    font-family: Fantasy;
+}
+.logo {
+  display: inline-block;
+  width: 40px;
+}
+.header {
+  padding-top: 15px;
+  margin: 0px 0px 0px 0px;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  border-bottom: ridge;
+}
+body {
+ margin-top: 100px;
+ margin-left: 15px;
+}
